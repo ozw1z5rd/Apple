@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.Storyboard.XIB" version="3.0" toolsVersion="11542" systemVersion="16G1036" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" initialViewController="B8D-0N-5wS">
+<document type="com.apple.InterfaceBuilder3.Cocoa.Storyboard.XIB" version="3.0" toolsVersion="11542" systemVersion="16G1212" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" initialViewController="B8D-0N-5wS">
     <dependencies>
         <deployment identifier="macosx"/>
         <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11542"/>
@@ -690,7 +690,7 @@
                             <sceneView fixedFrame="YES" loops="NO" preferredRenderingAPI="-1" translatesAutoresizingMaskIntoConstraints="NO" id="kad-3f-Aob">
                                 <rect key="frame" x="20" y="15" width="446" height="240"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                                <color key="backgroundColor" red="0.5515778660774231" green="0.90683966875076294" blue="0.91696625947952271" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" red="0.97768586874008179" green="0.92540830373764038" blue="0.92066961526870728" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </sceneView>
                         </subviews>
                     </view>
